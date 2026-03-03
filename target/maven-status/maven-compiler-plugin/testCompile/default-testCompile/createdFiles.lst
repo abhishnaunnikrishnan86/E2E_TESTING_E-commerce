@@ -1,0 +1,6 @@
+Page\loginPage.class
+base\Setup.class
+Page\Shoppage.class
+Page\finishPage.class
+baseTest\loginTest.class
+Page\CheckoutPage.class
